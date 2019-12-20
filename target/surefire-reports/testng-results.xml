@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[共验证渠道包个数为：1个]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60680" started-at="2019-02-25T08:52:55Z" finished-at="2019-02-25T08:53:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60680" started-at="2019-02-25T08:52:55Z" finished-at="2019-02-25T08:53:55Z">
+      <class name="AndroidInstaller.dongman.apkInstallTest">
+        <test-method status="PASS" signature="androidApkCheck()[pri:0, instance:AndroidInstaller.dongman.apkInstallTest@32a068d1]" name="androidApkCheck" duration-ms="60486" started-at="2019-02-25T16:52:55Z" finished-at="2019-02-25T16:53:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[共验证渠道包个数为：1个]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- androidApkCheck -->
+      </class> <!-- AndroidInstaller.dongman.apkInstallTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
