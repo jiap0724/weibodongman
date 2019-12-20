@@ -28,9 +28,7 @@ public class apkInstallTest {
 		Assert.assertEquals(driver.isAppInstalled("com.weibo.comic"), true, "安装失败");
 		// 点击登录按钮
 
-		System.out.println("开始了");
-
-		// 点击同意
+		System.out.println("开始测试");
 
 
 		try {
